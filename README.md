@@ -1,6 +1,6 @@
 # Learning Java
 
-This repository is where I will document my journey of learning Java. Right now, I have just started and have pushed my first project, a simple calculator.
+This repository contains my first project in learning Java.
 
 ## Project
 
